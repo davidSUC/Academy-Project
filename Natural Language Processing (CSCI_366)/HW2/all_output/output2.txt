@@ -1,0 +1,7 @@
+Doc#	|	Predicted class	|	Actual class
+	--------------------------------------	
+1	|	action		|	action
+
+Total number of documents: 1
+Prediction: True=1, False=0
+Accuracy: 100.0%

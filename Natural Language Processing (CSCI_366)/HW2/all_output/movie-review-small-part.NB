@@ -1,0 +1,19 @@
+Prior probability:
+P(action) = 0.6
+P(comedy) = 0.4
+
+Probability of each word:
+P(love | action) = 2.233688489803212e-05
+P(fun | action) = 2.233688489803212e-05
+P(fast | action) = 3.350532734704818e-05
+P(shoot | action) = 5.58422122450803e-05
+P(fly | action) = 2.233688489803212e-05
+P(furious | action) = 3.350532734704818e-05
+P(couple | action) = 1.116844244901606e-05
+P(love | comedy) = 3.3506075768406e-05
+P(fun | comedy) = 4.467476769120801e-05
+P(fast | comedy) = 2.2337383845604003e-05
+P(shoot | comedy) = 1.1168691922802002e-05
+P(fly | comedy) = 2.2337383845604003e-05
+P(furious | comedy) = 1.1168691922802002e-05
+P(couple | comedy) = 3.3506075768406e-05

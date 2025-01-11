@@ -1,0 +1,2 @@
+To RUN:
+./a.exe /MQ_NAME(name of queue)

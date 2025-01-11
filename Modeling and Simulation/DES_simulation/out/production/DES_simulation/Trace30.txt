@@ -1,0 +1,614 @@
+Clock time: 0.0
+Server event: null
+Depart event: null
+Future events:
+Customer#1--arrive time: 36.38765942794317
+Delay list:
+
+Clock time: 36.38765942794317
+Server event: Serving Customer#1 arrive at 36.38765942794317
+Depart event: Customer#1 at 42.832143913047325
+Future events:
+Customer#2--arrive time: 40.55227407612939
+Delay list:
+
+Clock time: 40.55227407612939
+Server event: Serving Customer#1 arrive at 36.38765942794317
+Depart event: Customer#1 at 42.832143913047325
+Future events:
+Customer#3--arrive time: 43.45463676709767
+Delay list:
+Customer#2--arrive time: 40.55227407612939
+
+Clock time: 42.832143913047325
+Server event: Serving Customer#2 arrive at 40.55227407612939
+Depart event: Customer#2 at 50.195089672421595
+Future events:
+Customer#3--arrive time: 43.45463676709767
+Delay list:
+
+Clock time: 43.45463676709767
+Server event: Serving Customer#2 arrive at 40.55227407612939
+Depart event: Customer#2 at 50.195089672421595
+Future events:
+Customer#4--arrive time: 58.01423958469367
+Delay list:
+Customer#3--arrive time: 43.45463676709767
+
+Clock time: 50.195089672421595
+Server event: Serving Customer#3 arrive at 43.45463676709767
+Depart event: Customer#3 at 56.9703886627322
+Future events:
+Customer#4--arrive time: 58.01423958469367
+Delay list:
+
+Clock time: 56.9703886627322
+Server event: idle
+Depart event: null
+Future events:
+Customer#4--arrive time: 58.01423958469367
+Delay list:
+
+Clock time: 58.01423958469367
+Server event: Serving Customer#4 arrive at 58.01423958469367
+Depart event: Customer#4 at 64.63316850746955
+Future events:
+Customer#5--arrive time: 64.91876992935423
+Delay list:
+
+Clock time: 64.63316850746955
+Server event: idle
+Depart event: null
+Future events:
+Customer#5--arrive time: 64.91876992935423
+Delay list:
+
+Clock time: 64.91876992935423
+Server event: Serving Customer#5 arrive at 64.91876992935423
+Depart event: Customer#5 at 65.14480617182167
+Future events:
+Customer#6--arrive time: 79.53055072865803
+Delay list:
+
+Clock time: 65.14480617182167
+Server event: idle
+Depart event: null
+Future events:
+Customer#6--arrive time: 79.53055072865803
+Delay list:
+
+Clock time: 79.53055072865803
+Server event: Serving Customer#6 arrive at 79.53055072865803
+Depart event: Customer#6 at 81.91637248467404
+Future events:
+Customer#7--arrive time: 91.56546960082461
+Delay list:
+
+Clock time: 81.91637248467404
+Server event: idle
+Depart event: null
+Future events:
+Customer#7--arrive time: 91.56546960082461
+Delay list:
+
+Clock time: 91.56546960082461
+Server event: Serving Customer#7 arrive at 91.56546960082461
+Depart event: Customer#7 at 94.8958351369303
+Future events:
+Customer#8--arrive time: 95.80247325088484
+Delay list:
+
+Clock time: 94.8958351369303
+Server event: idle
+Depart event: null
+Future events:
+Customer#8--arrive time: 95.80247325088484
+Delay list:
+
+Clock time: 95.80247325088484
+Server event: Serving Customer#8 arrive at 95.80247325088484
+Depart event: Customer#8 at 99.33366165104611
+Future events:
+Customer#9--arrive time: 105.22679902855968
+Delay list:
+
+Clock time: 99.33366165104611
+Server event: idle
+Depart event: null
+Future events:
+Customer#9--arrive time: 105.22679902855968
+Delay list:
+
+Clock time: 105.22679902855968
+Server event: Serving Customer#9 arrive at 105.22679902855968
+Depart event: Customer#9 at 121.73969495734022
+Future events:
+Customer#10--arrive time: 128.48195476367283
+Delay list:
+
+Clock time: 121.73969495734022
+Server event: idle
+Depart event: null
+Future events:
+Customer#10--arrive time: 128.48195476367283
+Delay list:
+
+Clock time: 128.48195476367283
+Server event: Serving Customer#10 arrive at 128.48195476367283
+Depart event: Customer#10 at 134.2563360083249
+Future events:
+Customer#11--arrive time: 141.66920667163313
+Delay list:
+
+Clock time: 134.2563360083249
+Server event: idle
+Depart event: null
+Future events:
+Customer#11--arrive time: 141.66920667163313
+Delay list:
+
+Clock time: 141.66920667163313
+Server event: Serving Customer#11 arrive at 141.66920667163313
+Depart event: Customer#11 at 146.3907934114238
+Future events:
+Customer#12--arrive time: 144.79388369758988
+Delay list:
+
+Clock time: 144.79388369758988
+Server event: Serving Customer#11 arrive at 141.66920667163313
+Depart event: Customer#11 at 146.3907934114238
+Future events:
+Customer#13--arrive time: 145.29366955521297
+Delay list:
+Customer#12--arrive time: 144.79388369758988
+
+Clock time: 145.29366955521297
+Server event: Serving Customer#11 arrive at 141.66920667163313
+Depart event: Customer#11 at 146.3907934114238
+Future events:
+Customer#14--arrive time: 147.2537066412668
+Delay list:
+Customer#12--arrive time: 144.79388369758988
+Customer#13--arrive time: 145.29366955521297
+
+Clock time: 146.3907934114238
+Server event: Serving Customer#12 arrive at 144.79388369758988
+Depart event: Customer#12 at 158.58277847527964
+Future events:
+Customer#14--arrive time: 147.2537066412668
+Delay list:
+Customer#13--arrive time: 145.29366955521297
+
+Clock time: 147.2537066412668
+Server event: Serving Customer#12 arrive at 144.79388369758988
+Depart event: Customer#12 at 158.58277847527964
+Future events:
+Customer#15--arrive time: 148.5589592329651
+Delay list:
+Customer#13--arrive time: 145.29366955521297
+Customer#14--arrive time: 147.2537066412668
+
+Clock time: 148.5589592329651
+Server event: Serving Customer#12 arrive at 144.79388369758988
+Depart event: Customer#12 at 158.58277847527964
+Future events:
+Customer#16--arrive time: 158.68113849474938
+Delay list:
+Customer#13--arrive time: 145.29366955521297
+Customer#14--arrive time: 147.2537066412668
+Customer#15--arrive time: 148.5589592329651
+
+Clock time: 158.58277847527964
+Server event: Serving Customer#13 arrive at 145.29366955521297
+Depart event: Customer#13 at 165.1931438818896
+Future events:
+Customer#16--arrive time: 158.68113849474938
+Delay list:
+Customer#14--arrive time: 147.2537066412668
+Customer#15--arrive time: 148.5589592329651
+
+Clock time: 158.68113849474938
+Server event: Serving Customer#13 arrive at 145.29366955521297
+Depart event: Customer#13 at 165.1931438818896
+Future events:
+Customer#17--arrive time: 166.09040206195462
+Delay list:
+Customer#14--arrive time: 147.2537066412668
+Customer#15--arrive time: 148.5589592329651
+Customer#16--arrive time: 158.68113849474938
+
+Clock time: 165.1931438818896
+Server event: Serving Customer#14 arrive at 147.2537066412668
+Depart event: Customer#14 at 165.5362468913916
+Future events:
+Customer#17--arrive time: 166.09040206195462
+Delay list:
+Customer#15--arrive time: 148.5589592329651
+Customer#16--arrive time: 158.68113849474938
+
+Clock time: 165.5362468913916
+Server event: Serving Customer#15 arrive at 148.5589592329651
+Depart event: Customer#15 at 166.79961243963228
+Future events:
+Customer#17--arrive time: 166.09040206195462
+Delay list:
+Customer#16--arrive time: 158.68113849474938
+
+Clock time: 166.09040206195462
+Server event: Serving Customer#15 arrive at 148.5589592329651
+Depart event: Customer#15 at 166.79961243963228
+Future events:
+Customer#18--arrive time: 197.02152331363916
+Delay list:
+Customer#16--arrive time: 158.68113849474938
+Customer#17--arrive time: 166.09040206195462
+
+Clock time: 166.79961243963228
+Server event: Serving Customer#16 arrive at 158.68113849474938
+Depart event: Customer#16 at 174.7658592775977
+Future events:
+Customer#18--arrive time: 197.02152331363916
+Delay list:
+Customer#17--arrive time: 166.09040206195462
+
+Clock time: 174.7658592775977
+Server event: Serving Customer#17 arrive at 166.09040206195462
+Depart event: Customer#17 at 177.18130945674915
+Future events:
+Customer#18--arrive time: 197.02152331363916
+Delay list:
+
+Clock time: 177.18130945674915
+Server event: idle
+Depart event: null
+Future events:
+Customer#18--arrive time: 197.02152331363916
+Delay list:
+
+Clock time: 197.02152331363916
+Server event: Serving Customer#18 arrive at 197.02152331363916
+Depart event: Customer#18 at 204.8153827924357
+Future events:
+Customer#19--arrive time: 199.59901449259132
+Delay list:
+
+Clock time: 199.59901449259132
+Server event: Serving Customer#18 arrive at 197.02152331363916
+Depart event: Customer#18 at 204.8153827924357
+Future events:
+Customer#20--arrive time: 202.70313150527954
+Delay list:
+Customer#19--arrive time: 199.59901449259132
+
+Clock time: 202.70313150527954
+Server event: Serving Customer#18 arrive at 197.02152331363916
+Depart event: Customer#18 at 204.8153827924357
+Future events:
+Customer#21--arrive time: 218.48782101931823
+Delay list:
+Customer#19--arrive time: 199.59901449259132
+Customer#20--arrive time: 202.70313150527954
+
+Clock time: 204.8153827924357
+Server event: Serving Customer#19 arrive at 199.59901449259132
+Depart event: Customer#19 at 208.74264792230844
+Future events:
+Customer#21--arrive time: 218.48782101931823
+Delay list:
+Customer#20--arrive time: 202.70313150527954
+
+Clock time: 208.74264792230844
+Server event: Serving Customer#20 arrive at 202.70313150527954
+Depart event: Customer#20 at 210.5123246780102
+Future events:
+Customer#21--arrive time: 218.48782101931823
+Delay list:
+
+Clock time: 210.5123246780102
+Server event: idle
+Depart event: null
+Future events:
+Customer#21--arrive time: 218.48782101931823
+Delay list:
+
+Clock time: 218.48782101931823
+Server event: Serving Customer#21 arrive at 218.48782101931823
+Depart event: Customer#21 at 221.46626151953316
+Future events:
+Customer#22--arrive time: 220.73270033506847
+Delay list:
+
+Clock time: 220.73270033506847
+Server event: Serving Customer#21 arrive at 218.48782101931823
+Depart event: Customer#21 at 221.46626151953316
+Future events:
+Customer#23--arrive time: 226.45798580454095
+Delay list:
+Customer#22--arrive time: 220.73270033506847
+
+Clock time: 221.46626151953316
+Server event: Serving Customer#22 arrive at 220.73270033506847
+Depart event: Customer#22 at 228.2584985939666
+Future events:
+Customer#23--arrive time: 226.45798580454095
+Delay list:
+
+Clock time: 226.45798580454095
+Server event: Serving Customer#22 arrive at 220.73270033506847
+Depart event: Customer#22 at 228.2584985939666
+Future events:
+Customer#24--arrive time: 228.24320803889404
+Delay list:
+Customer#23--arrive time: 226.45798580454095
+
+Clock time: 228.24320803889404
+Server event: Serving Customer#22 arrive at 220.73270033506847
+Depart event: Customer#22 at 228.2584985939666
+Future events:
+Customer#25--arrive time: 230.76850838809537
+Delay list:
+Customer#23--arrive time: 226.45798580454095
+Customer#24--arrive time: 228.24320803889404
+
+Clock time: 228.2584985939666
+Server event: Serving Customer#23 arrive at 226.45798580454095
+Depart event: Customer#23 at 235.81432253177016
+Future events:
+Customer#25--arrive time: 230.76850838809537
+Delay list:
+Customer#24--arrive time: 228.24320803889404
+
+Clock time: 230.76850838809537
+Server event: Serving Customer#23 arrive at 226.45798580454095
+Depart event: Customer#23 at 235.81432253177016
+Future events:
+Customer#26--arrive time: 230.77473424036128
+Delay list:
+Customer#24--arrive time: 228.24320803889404
+Customer#25--arrive time: 230.76850838809537
+
+Clock time: 230.77473424036128
+Server event: Serving Customer#23 arrive at 226.45798580454095
+Depart event: Customer#23 at 235.81432253177016
+Future events:
+Customer#27--arrive time: 231.85484496095773
+Delay list:
+Customer#24--arrive time: 228.24320803889404
+Customer#25--arrive time: 230.76850838809537
+Customer#26--arrive time: 230.77473424036128
+
+Clock time: 231.85484496095773
+Server event: Serving Customer#23 arrive at 226.45798580454095
+Depart event: Customer#23 at 235.81432253177016
+Future events:
+Customer#28--arrive time: 234.41021714237118
+Delay list:
+Customer#24--arrive time: 228.24320803889404
+Customer#25--arrive time: 230.76850838809537
+Customer#26--arrive time: 230.77473424036128
+Customer#27--arrive time: 231.85484496095773
+
+Clock time: 234.41021714237118
+Server event: Serving Customer#23 arrive at 226.45798580454095
+Depart event: Customer#23 at 235.81432253177016
+Future events:
+Customer#29--arrive time: 248.35145912653215
+Delay list:
+Customer#24--arrive time: 228.24320803889404
+Customer#25--arrive time: 230.76850838809537
+Customer#26--arrive time: 230.77473424036128
+Customer#27--arrive time: 231.85484496095773
+Customer#28--arrive time: 234.41021714237118
+
+Clock time: 235.81432253177016
+Server event: Serving Customer#24 arrive at 228.24320803889404
+Depart event: Customer#24 at 239.35277634466203
+Future events:
+Customer#29--arrive time: 248.35145912653215
+Delay list:
+Customer#25--arrive time: 230.76850838809537
+Customer#26--arrive time: 230.77473424036128
+Customer#27--arrive time: 231.85484496095773
+Customer#28--arrive time: 234.41021714237118
+
+Clock time: 239.35277634466203
+Server event: Serving Customer#25 arrive at 230.76850838809537
+Depart event: Customer#25 at 241.33968364140986
+Future events:
+Customer#29--arrive time: 248.35145912653215
+Delay list:
+Customer#26--arrive time: 230.77473424036128
+Customer#27--arrive time: 231.85484496095773
+Customer#28--arrive time: 234.41021714237118
+
+Clock time: 241.33968364140986
+Server event: Serving Customer#26 arrive at 230.77473424036128
+Depart event: Customer#26 at 251.1886848747346
+Future events:
+Customer#29--arrive time: 248.35145912653215
+Delay list:
+Customer#27--arrive time: 231.85484496095773
+Customer#28--arrive time: 234.41021714237118
+
+Clock time: 248.35145912653215
+Server event: Serving Customer#26 arrive at 230.77473424036128
+Depart event: Customer#26 at 251.1886848747346
+Future events:
+Customer#30--arrive time: 252.71850611510638
+Delay list:
+Customer#27--arrive time: 231.85484496095773
+Customer#28--arrive time: 234.41021714237118
+Customer#29--arrive time: 248.35145912653215
+
+Clock time: 251.1886848747346
+Server event: Serving Customer#27 arrive at 231.85484496095773
+Depart event: Customer#27 at 252.84511636281343
+Future events:
+Customer#30--arrive time: 252.71850611510638
+Delay list:
+Customer#28--arrive time: 234.41021714237118
+Customer#29--arrive time: 248.35145912653215
+
+Clock time: 252.71850611510638
+Server event: Serving Customer#27 arrive at 231.85484496095773
+Depart event: Customer#27 at 252.84511636281343
+Future events:
+Customer#31--arrive time: 254.92352565154638
+Delay list:
+Customer#28--arrive time: 234.41021714237118
+Customer#29--arrive time: 248.35145912653215
+Customer#30--arrive time: 252.71850611510638
+
+Clock time: 252.84511636281343
+Server event: Serving Customer#28 arrive at 234.41021714237118
+Depart event: Customer#28 at 267.28953980576847
+Future events:
+Customer#31--arrive time: 254.92352565154638
+Delay list:
+Customer#29--arrive time: 248.35145912653215
+Customer#30--arrive time: 252.71850611510638
+
+Clock time: 254.92352565154638
+Server event: Serving Customer#28 arrive at 234.41021714237118
+Depart event: Customer#28 at 267.28953980576847
+Future events:
+Customer#32--arrive time: 256.8785481227151
+Delay list:
+Customer#29--arrive time: 248.35145912653215
+Customer#30--arrive time: 252.71850611510638
+Customer#31--arrive time: 254.92352565154638
+
+Clock time: 256.8785481227151
+Server event: Serving Customer#28 arrive at 234.41021714237118
+Depart event: Customer#28 at 267.28953980576847
+Future events:
+Customer#33--arrive time: 263.86168351765645
+Delay list:
+Customer#29--arrive time: 248.35145912653215
+Customer#30--arrive time: 252.71850611510638
+Customer#31--arrive time: 254.92352565154638
+Customer#32--arrive time: 256.8785481227151
+
+Clock time: 263.86168351765645
+Server event: Serving Customer#28 arrive at 234.41021714237118
+Depart event: Customer#28 at 267.28953980576847
+Future events:
+Customer#34--arrive time: 267.97033443314626
+Delay list:
+Customer#29--arrive time: 248.35145912653215
+Customer#30--arrive time: 252.71850611510638
+Customer#31--arrive time: 254.92352565154638
+Customer#32--arrive time: 256.8785481227151
+Customer#33--arrive time: 263.86168351765645
+
+Clock time: 267.28953980576847
+Server event: Serving Customer#29 arrive at 248.35145912653215
+Depart event: Customer#29 at 272.9674712399722
+Future events:
+Customer#34--arrive time: 267.97033443314626
+Delay list:
+Customer#30--arrive time: 252.71850611510638
+Customer#31--arrive time: 254.92352565154638
+Customer#32--arrive time: 256.8785481227151
+Customer#33--arrive time: 263.86168351765645
+
+Clock time: 267.97033443314626
+Server event: Serving Customer#29 arrive at 248.35145912653215
+Depart event: Customer#29 at 272.9674712399722
+Future events:
+Customer#35--arrive time: 269.51773002362626
+Delay list:
+Customer#30--arrive time: 252.71850611510638
+Customer#31--arrive time: 254.92352565154638
+Customer#32--arrive time: 256.8785481227151
+Customer#33--arrive time: 263.86168351765645
+Customer#34--arrive time: 267.97033443314626
+
+Clock time: 269.51773002362626
+Server event: Serving Customer#29 arrive at 248.35145912653215
+Depart event: Customer#29 at 272.9674712399722
+Future events:
+Customer#36--arrive time: 270.28097696252127
+Delay list:
+Customer#30--arrive time: 252.71850611510638
+Customer#31--arrive time: 254.92352565154638
+Customer#32--arrive time: 256.8785481227151
+Customer#33--arrive time: 263.86168351765645
+Customer#34--arrive time: 267.97033443314626
+Customer#35--arrive time: 269.51773002362626
+
+Clock time: 270.28097696252127
+Server event: Serving Customer#29 arrive at 248.35145912653215
+Depart event: Customer#29 at 272.9674712399722
+Future events:
+Customer#37--arrive time: 275.870594444313
+Delay list:
+Customer#30--arrive time: 252.71850611510638
+Customer#31--arrive time: 254.92352565154638
+Customer#32--arrive time: 256.8785481227151
+Customer#33--arrive time: 263.86168351765645
+Customer#34--arrive time: 267.97033443314626
+Customer#35--arrive time: 269.51773002362626
+Customer#36--arrive time: 270.28097696252127
+
+Clock time: 272.9674712399722
+Server event: Serving Customer#30 arrive at 252.71850611510638
+Depart event: Customer#30 at 288.8320998745945
+Future events:
+Customer#37--arrive time: 275.870594444313
+Delay list:
+Customer#31--arrive time: 254.92352565154638
+Customer#32--arrive time: 256.8785481227151
+Customer#33--arrive time: 263.86168351765645
+Customer#34--arrive time: 267.97033443314626
+Customer#35--arrive time: 269.51773002362626
+Customer#36--arrive time: 270.28097696252127
+
+Clock time: 275.870594444313
+Server event: Serving Customer#30 arrive at 252.71850611510638
+Depart event: Customer#30 at 288.8320998745945
+Future events:
+Customer#38--arrive time: 285.21022545454235
+Delay list:
+Customer#31--arrive time: 254.92352565154638
+Customer#32--arrive time: 256.8785481227151
+Customer#33--arrive time: 263.86168351765645
+Customer#34--arrive time: 267.97033443314626
+Customer#35--arrive time: 269.51773002362626
+Customer#36--arrive time: 270.28097696252127
+Customer#37--arrive time: 275.870594444313
+
+Clock time: 285.21022545454235
+Server event: Serving Customer#30 arrive at 252.71850611510638
+Depart event: Customer#30 at 288.8320998745945
+Future events:
+Customer#39--arrive time: 288.5490702329995
+Delay list:
+Customer#31--arrive time: 254.92352565154638
+Customer#32--arrive time: 256.8785481227151
+Customer#33--arrive time: 263.86168351765645
+Customer#34--arrive time: 267.97033443314626
+Customer#35--arrive time: 269.51773002362626
+Customer#36--arrive time: 270.28097696252127
+Customer#37--arrive time: 275.870594444313
+Customer#38--arrive time: 285.21022545454235
+
+Clock time: 288.5490702329995
+Server event: Serving Customer#30 arrive at 252.71850611510638
+Depart event: Customer#30 at 288.8320998745945
+Future events:
+Customer#40--arrive time: 289.08150976080424
+Delay list:
+Customer#31--arrive time: 254.92352565154638
+Customer#32--arrive time: 256.8785481227151
+Customer#33--arrive time: 263.86168351765645
+Customer#34--arrive time: 267.97033443314626
+Customer#35--arrive time: 269.51773002362626
+Customer#36--arrive time: 270.28097696252127
+Customer#37--arrive time: 275.870594444313
+Customer#38--arrive time: 285.21022545454235
+Customer#39--arrive time: 288.5490702329995
+
+Average server idle time is: 9.806158405046958
+Average queue length is: 39.40680141300028
+Server Idle%: 0.21163853255028026

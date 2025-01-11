@@ -1,0 +1,15 @@
+149.4.211.174	godel.cs.qc.cuny.edu
+149.4.211.203	alpha.cs.qc.cuny.edu
+149.4.211.157	apple.cs.qc.cuny.edu
+149.4.211.124	sigma.cs.qc.cuny.edu
+149.4.211.71	black.cs.qc.cuny.edu
+149.4.211.21	enigma.cs.qc.cuny.edu
+149.4.211.163	wizard.cs.qc.cuny.edu
+149.4.211.72	white.cs.qc.cuny.edu
+149.4.211.83	delta.cs.qc.cuny.edu
+149.4.211.125	omega.cs.qc.cuny.edu
+149.4.211.84	gamma.cs.qc.cuny.edu
+149.4.223.192	castle.cs.qc.cuny.edu
+149.4.211.66	theta.cs.qc.cuny.edu
+149.4.211.117	tundra.cs.qc.cuny.edu
+149.4.223.99	gothic.cs.qc.cuny.edu

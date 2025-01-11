@@ -1,0 +1,3 @@
+vim -filename.c
+gcc filename.c -o filename.exe
+./filename.exe (arg1) (arg2)

@@ -1,0 +1,3 @@
+Number of success in the limit range is 478
+Percent:95.6%
+The random generator is good

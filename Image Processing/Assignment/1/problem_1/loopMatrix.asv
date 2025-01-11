@@ -1,0 +1,15 @@
+function output = loopMatrix(matrix1, matrix2)
+    s = size(matrix1);
+    r = s(1);
+    c = s(2);
+
+    output = zero(s);
+
+    for i=1:r
+        for j=1:c
+            c(i,j) = sum(A(i,:) * B(:,j));
+        end
+    end
+    disp('Matrix size ' + rc);
+end
+
